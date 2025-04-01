@@ -22,6 +22,10 @@ DOMAIN-SUFFIX,jsq.mooguu.xyz
 DOMAIN-SUFFIX,yz.yezi.my
 DOMAIN-SUFFIX,cf.1024.one
 DOMAIN-SUFFIX,z.sfcj.org
+DOMAIN-KEYWORD,mooguu
+DOMAIN-KEYWORD,yezi
+DOMAIN-KEYWORD,sfcj
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
