@@ -26,6 +26,8 @@ DOMAIN-KEYWORD,mooguu
 DOMAIN-KEYWORD,yezi
 DOMAIN-KEYWORD,sfcj
 
+DOMAIN-SUFFIX,ping0.cc
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
